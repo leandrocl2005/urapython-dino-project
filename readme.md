@@ -43,7 +43,7 @@ python manage.py runserver
 ```
 - No seu navegador de internet digite *http://localhost:8000/admin*
 
-## 
-Django Admin Cookbook
-Building APIs with Django and Django Rest Framework
+## Referências
+
+- Building APIs with Django and Django Rest Framework (https://books.agiliq.com/)
 
