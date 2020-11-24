@@ -1,0 +1,5 @@
+myvenv
+__pycache__
+*.jpg
+db.sqlite3
+.vscode
